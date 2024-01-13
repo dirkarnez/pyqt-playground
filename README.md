@@ -5,3 +5,6 @@ python-playground
 ### Installing packages
 1. fill in package name with version to `requirements.txt`
 2. `install-package.cmd`
+
+### Tutorials
+- [Quick start - Qt for Python](https://doc.qt.io/qtforpython-6/quickstart.html)
